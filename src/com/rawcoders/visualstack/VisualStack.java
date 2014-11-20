@@ -302,7 +302,6 @@ public class VisualStack extends JApplet implements Runnable, ActionListener {
             thread = new Thread(this);
             thread.start();
             log("Compiling...");
-            return;
         }
     }
 
