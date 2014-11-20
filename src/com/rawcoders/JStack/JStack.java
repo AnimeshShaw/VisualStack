@@ -1,4 +1,4 @@
-package com.psychocoder.JStack;
+package com.rawcoders.JStack;
 
 import java.util.Iterator;
 import java.util.LinkedList;

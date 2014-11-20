@@ -1,4 +1,4 @@
-package com.psychocoder.applet;
+package com.rawcoders.visualstack;
 
 import java.awt.BorderLayout;
 import java.awt.Color;
@@ -26,7 +26,7 @@ import javax.swing.JTextPane;
 import javax.swing.ScrollPaneConstants;
 import javax.swing.SwingUtilities;
 
-import com.psychocoder.JStack.JStack;
+import com.rawcoders.JStack.JStack;
 
 /**
  * @author psychocoder

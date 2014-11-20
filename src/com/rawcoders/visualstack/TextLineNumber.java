@@ -1,4 +1,4 @@
-package com.psychocoder.applet;
+package com.rawcoders.visualstack;
 
 import java.awt.Color;
 import java.awt.Dimension;
